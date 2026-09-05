@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+fastapi_ai.db
+uploads/
+models/
+data/
+document/
+.pytest_cache/
+.commandcode/
